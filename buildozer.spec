@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = ProtiCalc
+title = FlyingCopter
 
 # (str) Package name
-package.name = proticalc
+package.name = FlyingCopter
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.ouchentech
